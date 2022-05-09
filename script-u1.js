@@ -10,8 +10,6 @@
 //     expensesHowMuch: prompt("Во сколько обойдется?")
 // };
 
-// console.log(expenses.expensesMoontly, expenses.expensesHowMuch);
-
 // #3
 
 var appData = {
